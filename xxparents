@@ -1,0 +1,19 @@
+{
+  "server" : "127.0.0.1",
+  "port" : 27017,
+  "database" : "xstudyparents",
+  "datainfo" : [
+        {
+          "id" : 0,
+          "flag" : "token",
+          "table" : "public_token" },
+        {
+          "id" : 1,
+          "flag" : "loginInfo",
+          "table" : "login_info" },
+        {
+          "id" : 2,
+          "flag" : "newPassword",
+          "table" : "resetPassword" }
+  ]
+}

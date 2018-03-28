@@ -1,0 +1,16 @@
+{
+  "platformInfo" : [
+        {
+          "platform" : "test",
+          "Url" : "http://192.168.0.215:8084/api/parent/"
+        },
+        {
+          "platform" : "preonline",
+          "Url" : "http://apps.entstudy.com/api/parent/"
+        },
+        {
+          "platform" : "online",
+          "Url" : "http://xjz.xstudy.com.cn/api/parent/"
+        }
+    ]
+}
